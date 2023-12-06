@@ -7,7 +7,7 @@ on:
       - pipelines/**
 env:
   AWS_REGION: us-east-1
-  SAGEMAKER_PROJECT_NAME: sagemaker-github-actions-x
+  SAGEMAKER_PROJECT_NAME: sagemaker-github-actions-x2
 
 jobs:
   Build:
